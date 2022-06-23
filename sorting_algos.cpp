@@ -1,7 +1,3 @@
-/**SAMUEL TEFERA DEMIISIE
-  *ID: 2716/12
-  */
-
 #include <iostream>
 using namespace std;
 
